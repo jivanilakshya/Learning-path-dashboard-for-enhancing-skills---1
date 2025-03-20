@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@emotion/react": "^11.11.4",
+    "@emotion/styled": "^11.11.5",
+    "@hapi/joi": "^17.1.1",
+    "@mui/material": "^5.15.19",
+    "axios": "^1.7.2",
+    "bcrypt": "^5.1.1",
+    "cloudinary": "^2.6.0",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "jsonwebtoken": "^9.0.2",
+    "nodemailer": "^6.10.0",
+    "razorpay": "^2.9.6",
+    "react-hot-toast": "^2.4.1"
+  }
+}
