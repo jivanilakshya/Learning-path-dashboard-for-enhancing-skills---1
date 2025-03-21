@@ -69,10 +69,3 @@ Want to contribute? Follow these steps:
 4. Push to the branch: `git push origin feature-name`
 5. Open a Pull Request
 
-## 📜 License
-This project is open-source under the MIT License.
-
----
-
-Feel free to update this file with more details as your project evolves! 🚀
-
